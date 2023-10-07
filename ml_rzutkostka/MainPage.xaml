@@ -7,7 +7,7 @@
 
     <StackLayout>
         <Image Source="d1.gif"  x:Name="animatedImage"/>
-        <Button Text="Rzuć kostką" Clicked="Button_Clicked" Margin="20"/>
+        <Button Text="Rzuć kostką" Clicked="Button_Clicked" Margin="20" x:Name="btnn"/>
     </StackLayout>
 
 </ContentPage>
